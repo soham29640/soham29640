@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Engineer | Full Stack Developer | Building Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Machine+Learning+Engineer;FastAPI+%7C+Spring+Boot;React+%7C+Streamlit;MongoDB+%7C+SQL;Building+AI+Agents🚀;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Machine+Learning+Engineer;FastAPI+%7C+Spring+Boot;React+%7C+Streamlit;MongoDB+%7C+SQL;Open+Source+Contributor" />
 </p>
 
 <p align="center">
