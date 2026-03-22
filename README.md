@@ -15,9 +15,9 @@
 
 - 💻 Passionate Developer from India  
 - 🤖 Building AI Agents & Automation Systems  
-- 📊 Love working on scalable backend systems  
-- ☁️ Exploring Cloud, DevOps & System Design  
-- ⚡ Fun fact: I debug faster with coffee ☕
+- 📊 Love scalable backend systems  
+- ☁️ Exploring Cloud & DevOps  
+- ☕ Debugging with coffee  
 
 ---
 
@@ -33,49 +33,27 @@
 
 ### 🔍 SEO AI Auditor
 - AI-powered SEO analysis platform  
-- Detects technical issues, keywords, and optimization suggestions  
-- Built with FastAPI + Streamlit + AI models  
-- Focused on real-world business use  
-
----
+- FastAPI + Streamlit + ML  
 
 ### 📈 Stock Market App
-- Real-time stock tracking and analytics system  
-- Data visualization + prediction models  
-- Integrated APIs for live market updates  
-- Built using Python + Streamlit  
-
----
+- Real-time analytics + predictions  
+- Data visualization system  
 
 ### 📧 Gmail Ecosystem Automation
-- Automated email workflow system  
-- Smart filtering, labeling, and task automation  
-- Improves productivity using rule-based + AI logic  
-- Built with Python + Gmail API  
+- Smart email automation system  
+- Gmail API + AI logic  
 
----
+### 🩺 Diabetes Prediction (Azure)
+- ML model deployed on Azure  
+- Healthcare classification  
 
-### 🩺 Diabetes Prediction (Azure Deployment)
-- ML model to predict diabetes risk  
-- Deployed on Microsoft Azure Cloud  
-- Uses healthcare dataset + classification models  
-- End-to-end pipeline: training → deployment → API  
+### 📰 Fake News Detection
+- NLP-based fake news classifier  
+- ML + text processing  
 
----
-
-### 📰 Fake Detection System
-- Detects fake news / misinformation using NLP  
-- Text classification using ML models  
-- Useful for media verification & analysis  
-- Built using Python + Scikit-learn  
-
----
-
-### 🌊 Flood Prediction using Reinforcement Learning
-- RL-based system to simulate and predict flood scenarios  
-- Focus on environmental modeling and decision-making  
-- Advanced AI approach beyond traditional ML  
-- Combines simulation + learning agent  
+### 🌊 Flood Prediction (Reinforcement Learning)
+- RL-based environmental simulation  
+- Intelligent decision system  
 
 ---
 
@@ -83,13 +61,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soham29640&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham29640&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham29640&theme=tokyonight" />
 </p>
 
@@ -105,19 +79,9 @@
 
 ## ⚙️ Currently Working On
 
-- 🤖 Autonomous AI Coder Agent (like Copilot/Devin)  
-- 🔥 Scalable backend systems using FastAPI  
+- 🤖 AI Coder Agent (Autonomous GitHub Dev)  
+- 🔥 FastAPI scalable backend systems  
 - ☁️ Cloud-native applications  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/soham29640">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 ---
 
