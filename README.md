@@ -24,7 +24,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,fastapi,spring,streamlit,mongodb,mysql,postgres,docker,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,fastapi,spring,streamlit,mongodb,mysql,postgres,oracle,docker,git,github,linux,vscode" />
 </p>
 
 ---
@@ -34,26 +34,42 @@
 ### 🔍 SEO AI Auditor
 - AI-powered SEO analysis platform  
 - FastAPI + Streamlit + ML  
+- Focused on real-world optimization  
+
+---
 
 ### 📈 Stock Market App
-- Real-time analytics + predictions  
-- Data visualization system  
+- Real-time analytics + prediction system  
+- Data visualization dashboards  
+- API-integrated live data  
+
+---
 
 ### 📧 Gmail Ecosystem Automation
-- Smart email automation system  
-- Gmail API + AI logic  
+- Smart email automation workflows  
+- Auto-labeling, filtering & actions  
+- Built using Gmail API + Python  
+
+---
 
 ### 🩺 Diabetes Prediction (Azure)
-- ML model deployed on Azure  
-- Healthcare classification  
+- ML model deployed on Microsoft Azure  
+- Healthcare classification system  
+- End-to-end pipeline  
+
+---
 
 ### 📰 Fake News Detection
 - NLP-based fake news classifier  
-- ML + text processing  
+- Text processing + ML models  
+- Useful for media validation  
+
+---
 
 ### 🌊 Flood Prediction (Reinforcement Learning)
 - RL-based environmental simulation  
-- Intelligent decision system  
+- Intelligent decision-making system  
+- Advanced AI implementation  
 
 ---
 
@@ -69,23 +85,21 @@
 
 ---
 
-## 🐍 Contribution Snake
+## ⚙️ Currently Working On
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soham29640/soham29640/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/soham29640/soham29640/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/soham29640/soham29640/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+- 🤖 AI Coder Agent (Autonomous GitHub Developer)  
+- 🔥 Scalable FastAPI backend systems  
+- ☁️ Cloud-native applications  
 
 ---
 
-## ⚙️ Currently Working On
+## 🌐 Connect With Me
 
-- 🤖 AI Coder Agent (Autonomous GitHub Dev)  
-- 🔥 FastAPI scalable backend systems  
-- ☁️ Cloud-native applications  
+<p align="center">
+  <a href="https://github.com/soham29640">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
