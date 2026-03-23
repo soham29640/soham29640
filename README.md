@@ -1,125 +1,133 @@
-<h1 align="center">Hi 👋, I'm Soham</h1>
-<h3 align="center">🚀 AI Engineer | Full Stack Developer | Building Intelligent Systems</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Machine+Learning+Engineer;FastAPI+%7C+Spring+Boot;React+%7C+Streamlit;MongoDB+%7C+SQL;Open+Source+Contributor" />
+# Hi there, I'm Soham 👋
+
+### AI Engineer · Full Stack Developer · Open Source Contributor
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Full+Stack+%7C+ML+%7C+Cloud+Native;FastAPI+%7C+Spring+Boot+%7C+React;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soham29640&color=blue&style=for-the-badge" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=soham29640&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/soham29640?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
 </p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Passionate Developer from India  
-- 🤖 Building AI Agents & Automation Systems  
-- 📊 Love scalable backend systems  
-- ☁️ Exploring Cloud & DevOps  
-- ☕ Debugging with coffee  
+I'm a passionate **AI Engineer and Full Stack Developer** from India, dedicated to building scalable, intelligent systems that solve real-world problems.
+
+- 🔭 Currently building an **AI Coder Agent** — an autonomous GitHub developer
+- 🌱 Deepening expertise in **LLMs, RAG pipelines, and cloud-native architectures**
+- 🛠️ Specialised in **FastAPI, Spring Boot, React, and machine learning deployments**
+- ☁️ Exploring **AWS, Azure, and containerised microservices with Docker**
+- 💬 Ask me about **Python, AI/ML, backend engineering, or system design**
+- ⚡ Fun fact: I debug with coffee and ship with confidence ☕
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🚀 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 SEO AI Auditor
-- AI-powered SEO analysis platform  
-- FastAPI + Streamlit + ML  
-- Focused on real-world optimization  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🔍 **SEO AI Auditor** | AI-powered SEO analysis platform delivering real-world optimisation insights | `FastAPI` `Streamlit` `ML` `Python` |
+| 📈 **Stock Market App** | Real-time analytics and prediction system with interactive data visualisation | `Python` `REST APIs` `Pandas` `Plotly` |
+| 📧 **Gmail Ecosystem Automation** | Intelligent email workflow automation with auto-labelling, filtering, and smart actions | `Python` `Gmail API` `OAuth2` |
+| 🩺 **Diabetes Prediction (Azure)** | End-to-end ML classification system deployed on Microsoft Azure for healthcare use | `Python` `scikit-learn` `Azure ML` |
+| 📰 **Fake News Detection** | NLP-based classifier for media validation using text processing and ML models | `Python` `NLP` `TF-IDF` `scikit-learn` |
+| 🌊 **Flood Prediction (RL)** | Reinforcement learning-based environmental simulation for intelligent decision-making | `Python` `RL` `Simulation` |
 
 ---
 
-### 📈 Stock Market App
-- Real-time analytics + prediction system  
-- Data visualization dashboards  
-- API-integrated live data  
+## 📊 GitHub Statistics
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soham29640&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham29640&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+</div>
 
-### 📧 Gmail Ecosystem Automation
-- Smart email automation workflows  
-- Auto-labeling, filtering & actions  
-- Built using Gmail API + Python  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham29640&theme=tokyonight&hide_border=true" />
+</div>
 
----
-
-### 🩺 Diabetes Prediction (Azure)
-- ML model deployed on Microsoft Azure  
-- Healthcare classification system  
-- End-to-end pipeline  
-
----
-
-### 📰 Fake News Detection
-- NLP-based fake news classifier  
-- Text processing + ML models  
-- Useful for media validation  
-
----
-
-### 🌊 Flood Prediction (Reinforcement Learning)
-- RL-based environmental simulation  
-- Intelligent decision-making system  
-- Advanced AI implementation  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soham29640&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham29640&layout=compact&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham29640&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soham29640&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ---
 
 ## ⚙️ Currently Working On
 
-- 🤖 AI Coder Agent (Autonomous GitHub Developer)  
-- 🔥 Scalable FastAPI backend systems  
-- ☁️ Cloud-native applications  
+```text
+🤖  AI Coder Agent      — Autonomous GitHub developer powered by LLMs
+🔥  FastAPI Backend     — Scalable, production-ready REST API systems
+☁️  Cloud Native Apps   — Containerised microservices on Azure & AWS
+```
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/soham29640">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-soham29640-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soham29640)
+
+</div>
 
 ---
 
-## 💡 Quote
+<div align="center">
 
-> "First, solve the problem. Then, write the code." 🚀
+### 💡 Philosophy
+
+*"First, solve the problem. Then, write the code."*
+
+⭐ **If you find my work helpful, consider giving it a star!** ⭐
+
+</div>
