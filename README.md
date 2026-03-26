@@ -5,7 +5,7 @@
 ### MLOPS Engineer · Full Stack Developer · LLM Engineer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=RAG+Fine Tuning+LLM Models+%F0%9F%A4%96;Full+Stack+%7C+ML+%7C+Cloud+Native;FastAPI+%7C+Spring+Boot+%7C+React;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=RAG+Fine+Tuning+LLMModels+%F0%9F%A4%96;Full+Stack+%7C+ML+%7C+Cloud+Native;FastAPI+%7C+Spring+Boot+%7C+React;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p>
