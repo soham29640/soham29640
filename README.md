@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **AI Engineer and Full Stack Developer** from India, dedicated to building scalable, intelligent systems that solve real-world problems.
+I build AI-powered backend systems that automate real-world workflows using LLMs, NLP, and scalable APIs.
 
 - 🔭 Currently building an **AI Coder Agent** — an autonomous GitHub developer
 - 🌱 Deepening expertise in **LLMs, RAG pipelines, and cloud-native architectures**
