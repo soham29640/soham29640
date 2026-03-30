@@ -119,7 +119,7 @@
 
 ### 💡 Philosophy
 
-*"First, solve the problem. Then, write the code."*
+*"Build what works. Improve what doesn’t."*
 
 ⭐ **If you find my work helpful, consider giving it a star!** ⭐
 
