@@ -93,16 +93,6 @@
 
 ---
 
-## ⚙️ Currently Working On
-
-```text
-🤖  AI Coder Agent      ████████████░░░░  75%  Autonomous GitHub developer powered by LLMs
-🔥  FastAPI Backend     ██████████░░░░░░  65%  Scalable, production-ready REST API systems
-☁️  Cloud Native Apps   ████████░░░░░░░░  50%  Containerised microservices on Azure & AWS
-```
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
