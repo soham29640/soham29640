@@ -75,20 +75,20 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soham29640&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham29640&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soham29640&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00F7FF&icon_color=0e75b6&text_color=ffffff" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham29640&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" height="195" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham29640&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=soham29640&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=0e75b6&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="70%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soham29640&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=soham29640&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soham29640&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soham29640&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=0e75b6&point=00F7FF" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
