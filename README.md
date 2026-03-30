@@ -16,49 +16,63 @@
 
 ---
 
-## 👨‍💻 Who I Am
+## 👨‍💻 About Me
 
-I design and deploy **AI-powered backend systems** focused on real-world automation — not demos.
+> I architect and ship **AI-powered backend systems** that automate real-world workflows using LLMs, NLP pipelines, and production-grade APIs.
 
-- 🧠 LLM systems, RAG pipelines, autonomous agents  
-- ⚙️ Production-grade APIs with FastAPI & Spring Boot  
-- ☁️ Cloud-native, scalable architectures  
-- 🚀 Focus: **execution > hype**
-
----
-
-## 🧰 Core Stack
-
-**Languages:** Python · Java · JavaScript  
-**Backend:** FastAPI · Spring Boot · REST APIs  
-**AI/ML:** NLP · RAG · LangChain · scikit-learn  
-**Frontend:** React  
-**Infra:** Docker · Kubernetes · Azure · AWS  
-**Databases:** MongoDB · PostgreSQL · MySQL  
+| | |
+|---|---|
+| 🔭 **Building** | **AI Coder Agent** — an autonomous GitHub developer powered by LLMs |
+| 🌱 **Deepening** | Expertise in **LLMs, RAG pipelines, and cloud-native architectures** |
+| 🛠️ **Specialised in** | FastAPI · Spring Boot · React · ML deployments |
+| ☁️ **Exploring** | AWS · Azure · containerised microservices with Docker & Kubernetes |
+| 💬 **Ask me about** | Python · AI/ML · Backend Engineering · System Design |
+| ⚡ **Fun fact** | I debug with coffee and ship with confidence ☕ |
 
 ---
 
-## 🚀 What I've Built
+## 🧰 Tech Stack
 
-### 🔍 SEO AI Auditor  
-AI system that analyzes and improves website SEO using ML + NLP  
-→ Focus: **real optimization, not generic reports**
-
-### 📈 Stock Market Analytics  
-Real-time analytics + predictive modeling with interactive dashboards  
-→ Focus: **decision-support, not just charts**
-
-### 📧 Gmail Automation System  
-End-to-end intelligent email workflow automation  
-→ Auto-labeling, filtering, smart actions
-
-### 🧠 AI Healthcare (Diabetes Prediction)  
-Production ML system deployed on Azure  
-→ Real-world ML deployment experience
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="45" title="Streamlit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="45" title="scikit-learn"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45" title="LangChain"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" title="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" title="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+| # | Project | Description | Tech Stack |
+|---|---------|-------------|------------|
+| 1 | 🔍 **SEO AI Auditor** | AI-powered SEO analysis platform delivering real-world optimisation insights | `FastAPI` `Streamlit` `ML` `Python` |
+| 2 | 📈 **Stock Market App** | Real-time analytics and prediction system with interactive data visualisation | `Python` `REST APIs` `Pandas` `Plotly` |
+| 3 | 📧 **Gmail Ecosystem Automation** | Intelligent email workflow automation with auto-labelling, filtering, and smart actions | `Python` `Gmail API` `OAuth2` |
+| 4 | 🩺 **Diabetes Prediction (Azure)** | End-to-end ML classification system deployed on Microsoft Azure for healthcare use | `Python` `scikit-learn` `Azure ML` |
+| 5 | 📰 **Fake News Detection** | NLP-based classifier for media validation using text processing and ML models | `Python` `NLP` `TF-IDF` `scikit-learn` |
+| 6 | 🌊 **Flood Prediction (RL)** | Reinforcement learning-based environmental simulation for intelligent decision-making | `Python` `RL` `Simulation` |
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soham29640&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="195" />
@@ -79,12 +93,12 @@ Production ML system deployed on Azure
 
 ---
 
-## ⚙️ Currently Building
+## ⚙️ Currently Working On
 
 ```text
-AI Coder Agent      ███████████░░░░  Autonomous GitHub developer (LLMs)
-FastAPI Systems     █████████░░░░░░  Scalable backend architecture
-Cloud Systems       ███████░░░░░░░░  Azure + AWS microservices
+🤖  AI Coder Agent      ████████████░░░░  75%  Autonomous GitHub developer powered by LLMs
+🔥  FastAPI Backend     ██████████░░░░░░  65%  Scalable, production-ready REST API systems
+☁️  Cloud Native Apps   ████████░░░░░░░░  50%  Containerised microservices on Azure & AWS
 ```
 
 ---
@@ -100,7 +114,7 @@ Cloud Systems       ███████░░░░░░░░  Azure + AWS m
   <a href="https://www.linkedin.com/in/soham29640">
     <img src="https://img.shields.io/badge/LinkedIn-Soham%20Bera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:soham29640@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=soham29640@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-soham29640%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -113,7 +127,7 @@ Cloud Systems       ███████░░░░░░░░  Azure + AWS m
 
 ### 💡 Philosophy
 
-*"Build what works. Improve what doesn’t."*
+*"Build what works. Improve what doesn't."*
 
 ⭐ **If you find my work helpful, consider giving it a star!** ⭐
 
