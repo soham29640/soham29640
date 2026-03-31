@@ -16,21 +16,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-> I architect and ship **AI-powered backend systems** that automate real-world workflows using LLMs, NLP pipelines, and production-grade APIs.
-
-| | |
-|---|---|
-| 🔭 **Building** | **AI Coder Agent** — an autonomous GitHub developer powered by LLMs |
-| 🌱 **Deepening** | Expertise in **LLMs, RAG pipelines, and cloud-native architectures** |
-| 🛠️ **Specialised in** | FastAPI · Spring Boot · React · ML deployments |
-| ☁️ **Exploring** | AWS · Azure · containerised microservices with Docker & Kubernetes |
-| 💬 **Ask me about** | Python · AI/ML · Backend Engineering · System Design |
-| ⚡ **Fun fact** | I debug with coffee and ship with confidence ☕ |
-
----
-
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -56,19 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-| # | Project | Description | Tech Stack |
-|---|---------|-------------|------------|
-| 1 | 🔍 **SEO AI Auditor** | AI-powered SEO analysis platform delivering real-world optimisation insights | `FastAPI` `Streamlit` `ML` `Python` |
-| 2 | 📈 **Stock Market App** | Real-time analytics and prediction system with interactive data visualisation | `Python` `REST APIs` `Pandas` `Plotly` |
-| 3 | 📧 **Gmail Ecosystem Automation** | Intelligent email workflow automation with auto-labelling, filtering, and smart actions | `Python` `Gmail API` `OAuth2` |
-| 4 | 🩺 **Diabetes Prediction (Azure)** | End-to-end ML classification system deployed on Microsoft Azure for healthcare use | `Python` `scikit-learn` `Azure ML` |
-| 5 | 📰 **Fake News Detection** | NLP-based classifier for media validation using text processing and ML models | `Python` `NLP` `TF-IDF` `scikit-learn` |
-| 6 | 🌊 **Flood Prediction (RL)** | Reinforcement learning-based environmental simulation for intelligent decision-making | `Python` `RL` `Simulation` |
 
 ---
 
