@@ -62,16 +62,16 @@
 
 <p align="center">
   <a href="https://github.com/soham29640">
-    <img src="https://img.shields.io/badge/GitHub-soham29640-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-soham29640-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0e75b6" />
   </a>
   <a href="https://www.linkedin.com/in/soham-samanta-064611380/">
-    <img src="https://img.shields.io/badge/LinkedIn-Soham%20Samanta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Soham%20Samanta-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e75b6" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=soham29640@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-soham29640%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-soham29640%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e75b6" />
   </a>
   <a href="https://www.kaggle.com/soham2272">
-    <img src="https://img.shields.io/badge/Kaggle-soham2272-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-soham2272-000000?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0e75b6" />
   </a>
 </p>
 
