@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0e75b6,100:00F7FF&height=200&section=header&text=Soham&fontSize=70&fontAlignY=38&desc=AI ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20System%20Design&descAlignY=58&descAlign=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0e75b6,100:00F7FF&height=200&section=header&text=Soham&fontSize=70&fontAlignY=38&desc=ML%20LLM%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20System%20Design&descAlignY=58&descAlign=50&fontColor=ffffff&animation=fadeIn" />
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=RAG+Pipelines+%7C+Fine-Tuning+%7C+LLM+Architectures;Full+Stack+%7C+ML+Systems+%7C+System+Design;FastAPI+%7C+Spring+Boot+%7C+React+%7C+LangChain;Building+AI-Powered+Autonomous+Agents;Always+Learning.+Always+Shipping." alt="Typing SVG" />
