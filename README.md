@@ -7,8 +7,8 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=soham29640&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=white" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/soham29640?label=FOLLOWERS&style=for-the-badge&color=0e75b6&labelColor=white" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=soham29640&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=grey" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/soham29640?label=FOLLOWERS&style=for-the-badge&color=0e75b6&labelColor=grey" alt="Followers" />
 </p>
 
 </div>
