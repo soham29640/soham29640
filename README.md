@@ -87,6 +87,6 @@
 
 ⭐ **If you find my work helpful, consider giving it a star!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0e75b6,100:0D1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0e75b6,100:00F7FF&height=120&section=footer" />
 
 </div>
