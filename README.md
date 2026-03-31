@@ -9,7 +9,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=soham29640&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/soham29640?label=FOLLOWERS&style=for-the-badge&color=0e75b6&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20LLM%20Engineering-0e75b6?style=for-the-badge&labelColor=000000" alt="Focus" />
 </p>
 
 </div>
