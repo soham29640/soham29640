@@ -46,7 +46,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=soham29640&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=0e75b6&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&currStreakNum=7AA2F7&sideNums=7AA2F7" width="70%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=soham29640&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=0e75b6&ring=00F7FF&fire=00F7FF&currStreakLabel=7AA2F7&currStreakNum=7AA2F7&sideNums=7AA2F7" width="70%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
