@@ -82,7 +82,8 @@
 
 ### 💡 Philosophy
 
-*"Build what works. Improve what doesn't."*
+*"I don’t follow ideologies
+I test them."*
 
 ⭐ **If you find my work helpful, consider giving it a star!** ⭐
 
