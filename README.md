@@ -69,17 +69,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soham29640&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham29640&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=soham29640&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soham29640&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soham29640&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&custom_title=Soham%20Samanta%27s%20Contribution%20Graph" width="100%" alt="Soham Samanta's Contribution Graph" />
 
 </div>
 
@@ -90,19 +80,19 @@
 <div align="center">
 
 <a href="https://github.com/soham29640">
-  <img src="https://img.shields.io/badge/GitHub-soham29640-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=0e75b6" />
+  <img src="https://img.shields.io/badge/GitHub-soham29640-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=0e75b6" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/soham-samanta-064611380/">
-  <img src="https://img.shields.io/badge/LinkedIn-Soham%20Samanta-grey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e75b6" />
+  <img src="https://img.shields.io/badge/LinkedIn-Soham%20Samanta-grey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0e75b6" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:soham29640@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-soham29640%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e75b6" />
+  <img src="https://img.shields.io/badge/Gmail-soham29640%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e75b6" alt="Gmail"/>
 </a>
 
 <a href="https://www.kaggle.com/soham2272">
-  <img src="https://img.shields.io/badge/Kaggle-soham2272-grey?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0e75b6" />
+  <img src="https://img.shields.io/badge/Kaggle-soham2272-grey?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0e75b6" alt="Kaggle"/>
 </a>
 
 </div>
