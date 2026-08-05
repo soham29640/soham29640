@@ -65,16 +65,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soham29640&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&custom_title=Soham%20Samanta%27s%20Contribution%20Graph" width="100%" alt="Soham Samanta's Contribution Graph" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
