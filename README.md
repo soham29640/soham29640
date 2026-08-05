@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0e75b6,100:00F7FF&height=200&section=header&text=Soham&fontSize=70&fontAlignY=38&desc=ML%20LLM%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20System%20Design&descAlignY=58&descAlign=50&fontColor=ffffff&animation=fadeIn" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+AI+Developer;Java+%7C+Spring+Boot+%7C+FastAPI;Machine+Learning+%7C+Large+Language+Models;System+Design+%7C+Microservices+%7C+Devops;Kafka+%7C+Redis+%7C+Docker+%7C+Kubernetes;Always+Learning.+Always+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+AI+Developer;Java+%7C+Python+%7C+Spring+Boot+%7C+FastAPI;Machine+Learning+%7C+Large+Language+Models;System+Design+%7C+Microservices+%7C+Devops;Kafka+%7C+Redis+%7C+Docker+%7C+Kubernetes;Always+Learning.+Always+Building." alt="Typing SVG" />
 </p>
 
 <p>
